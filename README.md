@@ -1,6 +1,10 @@
 # collect_device_all_info
 
-A new Flutter project.
+ # Name and ID
+   # Name=Abdullahi Ali Tahliil
+   # ID=C119193
+   # Class=CA193
+ 
 
 ## Getting Started
 
